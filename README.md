@@ -44,7 +44,9 @@ Answer:document.xml.rels
 
 Question 5) The extracted URL accesses a HTML file that triggers the vulnerability to execute a malicious payload. According to the HTML processing functions, any files with fewer than <Number> bytes would not invoke the payload. Submit the <Number> (Format: Number of Bytes) 
 
-to get the answer of this Question and all other Question in the bottom we need to search for this type of vulnblity and we will get the answer *but* what i will do is to proform that vulnblity in my lap at `(my lab link)` and see it effects and see what logs it create
+to get the answer of this Question and all other Questions at the bottom we need to search for this type of vulnblity and we will get the answer *but* what i will do is to proform that vulnblity in my lap at `(my lab link)` and see it effects and see what logs it create
+
+first we need to download JohnHammond python file that will create the malues file by download it from github.com/JohnHammond/msdt-follina
 
 
 
