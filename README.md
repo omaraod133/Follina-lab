@@ -48,6 +48,9 @@ to get the answer of this Question and all other Questions at the bottom we need
 
 first we need to download JohnHammond python file that will create the malues file by download it from github.com/JohnHammond/msdt-follina
 
+then we will go to victem windwos device and download office apps 
+`download office in windows`
+
 
 
 
