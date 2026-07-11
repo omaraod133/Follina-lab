@@ -51,11 +51,23 @@ first we need to download JohnHammond python file that will create the malues fi
 then we will go to victem windwos device and download office apps 
 `download office in windows`
 
+we will set it up and we finshed the perparation
+now all we need to create the malwera .doc file and upanded it to our local server
+here we create our malware 
+`our malware`
+then we need to create our local server so the victem can download that malwear
+`create server`
 
+then we will vist that server in 192.168.0.1:8000
+`download the malware`
 
+here is our malware
+`download malware to decktop`
 
+let start it and see its effect in splunk
 
-
+we open that malwear and it blank file
+`open the malware`
 
 
 
